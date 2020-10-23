@@ -50,10 +50,13 @@
 	"Iya bu terimakasih."
 	"Besuk kamu mendaftar di swasta saja ya?"
 	"Tapi bu...."
-	"Tidak apa-apa nak, ayah dan ibu sudah siap kok" sahut ibu.
+	"Tidak apa-apa nak, ayah dan ibu sudah siap kok untuk semua keperluan mu" sahut ibu.
 	"Benar nak, ayah sudah siap kok untuk mendukung kamu kuliah." ujar ayah
 	"Terimakasih Ayah." jawabku
 	##CUT##
+	Hari perpisahan pun telah tiba, tapi kali ini bukan perpisahan antara teman-teman sekolah SMA lagi, tetapi berpisah terhadap orangtuaku, karena kali ini aku akan pergi keluar kota untuk kuliah swasa.
+	$complete farewell scene here$
+	Tidak kusangka, di lura kota membuatku aku merasa sangat khawatir karena aku jauh dari orangtua dan serta adik-adikku. Belum lagi karena di luar kota orangtuaku harus memberikan biaya hidup lebih untuk aku, dan aku sangat merasa membebani mereka.
 	Ya, meskipun aku tidak mendapat apa yang aku inginkan, tetapi setelah aku menuntut ilmu di perguruan tinggi swasta aku dapat belajar beberapa hal yang mungkin tidak terdapat di perguruan tinggi negeri. Selain itu aku mendapat ranking kelas yang lebih tinggi di sini, dan ini mungkin tidak dapat kudapatkan di universitas swasta karena saingan di sana sangat ketat. Dan aku malah lebih bersyukur karena itu. Dan aku berpikir bahwa hidup tidak seharusnya berjalan yang seperti kita inginkan, karena hal yang mungkin tidak kita inginkan malah mungkin akan membawa berkah bagi kita.
 	"Gimana pelajaran tadi?" tanya Fariz sambil duduk disampingku.
 	"Hehe... sebagian paham sih, sebagian enggak." jawabku.
@@ -65,3 +68,11 @@
 	"Beneran?"
 	"Iya. Beneran."
 	"Yaudah ayo."
+	Sembari berjalan menuju kantin, kamipun bincang-bincang mengenai pelajaran tadi. Dan seasampainya di kantin.
+	"Eh kamu mau pesena apa?"
+	"Terserah kamu aja deh."
+	"Ya udah. mie aja kamu mau ya?"
+	"Oke deh"
+	Begitu terus, dan kami melanjutkan perbincangan kami mengenai pelajaran tadi. Dan semenjak itu persahabatan kamipun semakin akrab.
+	##CUT##
+	
