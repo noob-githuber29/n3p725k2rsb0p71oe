@@ -1,4 +1,5 @@
-	Namaku Adam, aku adalah seorang anak SMA yang hidup di keluarga dan memiliki empat bersaudara. Aku tinggal bersama kedua orangtuaku. Ayahku hanya bekerja sebagai petani, dan Ibuku adalah ibu rumah tangga.
+	Namaku Adam, aku adalah seorang anak SMA yang hidup di keluarga dan aku empat bersaudara. Aku tinggal bersama kedua orangtuaku. Ayahku hanya bekerja sebagai petani, dan Ibuku adalah ibu rumah tangga.
+	$Insert introduction about every sister/brother here (Arief, Rahma, Rega)
 	Setelah satu bulan liburan, akupun rindu dengan sekolah. Dan hari ini adalah satu hari setelah habis masa liburan sekolah, artinya aku akan wisuda hari ini, dan kembali ke sekolah. Aku sangat senang karena bisa pergi ke sekolah lagi untuk melepas rasa rinduku.
 	"Nak, bangun, dan segera mandi, dan siap-siap, sebelum kita terlambat untuk acara wisuda!" perintah Ibu ketika aku sedang terbangun dari tempat tidur.
 	"Iya bu!" jawabku.
@@ -53,10 +54,23 @@
 	"Tidak apa-apa nak, ayah dan ibu sudah siap kok untuk semua keperluan mu" sahut ibu.
 	"Benar nak, ayah sudah siap kok untuk mendukung kamu kuliah." ujar ayah
 	"Terimakasih Ayah." jawabku
+	Aku tak tahu harus gembira atau sedih, karena dengan aku bisa kuliah tetapi orangtuaku harus terbebani karenanya. Tapi karena itu aku harus bisa membalas pengorbanan mereka dengan mendapat nilai yang terbaik dengan belajar bersungguh-sungguh.
 	##CUT##
-	Hari perpisahan pun telah tiba, tapi kali ini bukan perpisahan antara teman-teman sekolah SMA lagi, tetapi berpisah terhadap orangtuaku, karena kali ini aku akan pergi keluar kota untuk kuliah swasa.
-	$complete farewell scene here$
-	Tidak kusangka, di lura kota membuatku aku merasa sangat khawatir karena aku jauh dari orangtua dan serta adik-adikku. Belum lagi karena di luar kota orangtuaku harus memberikan biaya hidup lebih untuk aku, dan aku sangat merasa membebani mereka.
+	Hari perpisahan pun telah tiba, tapi kali ini bukan perpisahan antara teman-teman sekolah SMA lagi, tetapi berpisah terhadap orangtuaku, karena kali ini aku akan pergi keluar kota untuk kuliah swasta. Ya, tak kusangka aku harus pergi meninggalkan kampung halamanku untuk ini, karena suatu alasan yang menurutku ini kesalahanku, aku tidak bisa masuk ke perguruan tinggi negeri.
+	Aku kala itu di terminal berbincang bincang dengan adik-adik ku sambil menunggu bus tujuan kota univesitas ku. Kali ini aku sangat sedih dan bahagia. Sedihnya adalah aku harus meninggalkan kampung halaman, orangtuaku dan adik-adik ku demi menuntut ilmu. Dan senangnya adalah masih tetap bisa kuliah meskipun aku tidak diterima kemarin.
+	Detik-detik perpisahanpun tiba, dan aku pun berpamitan dengan orangtuaku dan adik-adikku.
+	"Pak aku pergi dulu ya." kataku sambil memeluk Ayah.
+	"Jaga diri baik-baik ya nak!" nasihat Ayah.
+	"Baik."
+	"Arief, Rahma, Rega. Kakak pergi dulu ya."
+	"Iya kak" jawab mereka bersama-sama.
+	"Bu, aku pamit yah." kataku sambil salim mencium tangan ibu.
+	"Ya nak, jaga dirimu baik baik, gunakan uangmu dengan bijak, jangan salah pergaulan, jangan lupa bersihkan tempat tidur setiap kamu bangun." jawab ibu sambil memeluk ku.
+	"Baik bu aku akan memenuhi semua perintahmu." sambil melepas pelukannya
+	Selepas itu, aku pun segera naik ke bus yang ada ditiketku. Dan sesampainya di dalamnya, aku duduk dan sambil melambaikan tangan kepada orangtuaku dan adik-adik ku. Kulihat pada saat itu ibu menangis, ya wajar karena aku anak yang paling disayanginya. Aku pun ikut menangis waktu itu.
+	##CUT##
+	Sesampainya di kota yang aku tuju, aku pun langsung menuju kos yang sudah aku booking. Karena pada pagi itu aku lelah sekali karena perjalanan yang berkisar 15 jam. Aku pun masuk ke kosannya, dan aku langsung tidur di atas kasur tanpa mandi atau ganti baju terlebih dahulu karena saking lelahnya diriku.
+	Setelah satu minggu di luar kota, tidak kusangka, di luar kota membuatku aku merasa sangat khawatir karena aku jauh dari orangtua dan serta adik-adikku. Belum lagi karena di luar kota orangtuaku harus memberikan biaya hidup lebih untuk aku, dan aku sangat merasa membebani mereka.
 	Ya, meskipun aku tidak mendapat apa yang aku inginkan, tetapi setelah aku menuntut ilmu di perguruan tinggi swasta aku dapat belajar beberapa hal yang mungkin tidak terdapat di perguruan tinggi negeri. Selain itu aku mendapat ranking kelas yang lebih tinggi di sini, dan ini mungkin tidak dapat kudapatkan di universitas swasta karena saingan di sana sangat ketat. Dan aku malah lebih bersyukur karena itu. Dan aku berpikir bahwa hidup tidak seharusnya berjalan yang seperti kita inginkan, karena hal yang mungkin tidak kita inginkan malah mungkin akan membawa berkah bagi kita.
 	"Gimana pelajaran tadi?" tanya Fariz sambil duduk disampingku.
 	"Hehe... sebagian paham sih, sebagian enggak." jawabku.
