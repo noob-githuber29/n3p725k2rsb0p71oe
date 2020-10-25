@@ -132,3 +132,7 @@
 	"Aku akan pulang akhir semester ini bu. Dan aku sudah kangen banget dengan ibu dan adik-adik." lanjutku.
 	"Baiklah nak, jangan terburu-buru, selesaikan tugasmu masih yang belum selesai kalau ada." 
 	"Baik bu."
+	$Langsung pulang adja
+	$begitu terus (tambahi lika-liku seperti drama), sampai lulus kuliah
+	$mendaftar kerja (luar pulau)
+	$gagal dapat kerdja
