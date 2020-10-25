@@ -1,6 +1,8 @@
 	Namaku Adam, aku adalah seorang anak SMA yang hidup di keluarga dan aku empat bersaudara. Aku tinggal bersama kedua orangtuaku. Ayahku hanya bekerja sebagai petani, dan Ibuku adalah ibu rumah tangga.
-	$Insert introduction about every sister/brother here (Arief, Rahma, Rega)
-	Setelah satu bulan liburan, akupun rindu dengan sekolah. Dan hari ini adalah satu hari setelah habis masa liburan sekolah, artinya aku akan wisuda hari ini, dan kembali ke sekolah. Aku sangat senang karena bisa pergi ke sekolah lagi untuk melepas rasa rinduku.
+	Adik ku yang paling besar bernama Arief. Aku setiap hari bermain video game bersamanya.
+	Adik ku selanjutnya bernama Rahma, dia yang cewek sendiri dari kami empat bersaudara.
+	Dan yang paling terakhir adalah Rega, dia paling cengeng di antara kami, ya wajar juga sih, dia juga masih anak kecil. Tetapi yang aku nggak suka dia selalu mengomel kepada ibu dan menyalahkanku ketika dia menangis.
+	Kali ini hari terakhir liburanku setelah satu bulan liburan, dan akupun rindu dengan sekolah. Dan hari ini adalah satu hari setelah habis masa liburan sekolah, artinya aku akan wisuda hari ini, dan kembali ke sekolah. Aku sangat senang karena bisa pergi ke sekolah lagi untuk melepas rasa rinduku.
 	"Nak, bangun, dan segera mandi, dan siap-siap, sebelum kita terlambat untuk acara wisuda!" perintah Ibu ketika aku sedang terbangun dari tempat tidur.
 	"Iya bu!" jawabku.
 	Pagi itu, setelah aku bangun dari tidur aku bersiap-siap dengan berdandan di depan cermin dan menjalankan semua yang diperintahkan ibu tadi lalu berangkat ke sekolah merayakan wisuda dengan didampingi orangtuaku. Aku agak deg-deg an sih, karena selain hanya wisuda, pagi ini juga merupakan pengumuman nilai & juara seluruh sekolah. Artinya, seluruh ranking di sekolah akan di paralel dan akan diambil juara satu sampai sepuluh yang terbaik.
@@ -8,7 +10,7 @@
 	"Ayo nak segera berangkat ke sekolah, nanti keburu telat loh." ajak ibuku.
 	"Baik bu" jawabku.
 	Di perjalanan perasaanku sangat senang sekali dan bercampur dengar ragu, karena kali ini aku dapat lulus tepat waktu. Dan disisi lain aku ragu, apakah nilai ku akan sebagus yang aku bayangkan atau tidak. Selain itu aku juga ragu apakah aku bisa masuk ke perguruan tinggi yang aku inginkan?
-	Perguruan tinggi yang aku inginkan adalah perguruan tinggi yang berbasis negeri, karena aku ingin meringankan beban orangtuaku yang merawat ke kempat anaknya, belum lagi ditambah usia mereka yang sudah mulai tua. Nah dengan memilih perguruan tinggi negeri ini, maka biaya kuliahnya akan lebih murah dan meringankan beban orangtuaku. Tetapi apa boleh buat, aku hanya bisa pasrah dan berdoa kepada Tuhan agar nilai ujian ku kali ini mendapat hasil yang terbaik.
+	Perguruan tinggi yang aku inginkan adalah perguruan tinggi yang berbasis negeri, karena aku ingin meringankan beban orangtuaku yang merawat ke kempat anaknya, belum lagi ditambah usia mereka yang sudah mulai tua. Nah dengan memilih perguruan tinggi negeri ini, maka biaya kuliahnya akan lebih murah dan meringankan beban orangtuaku. Tetapi apa boleh buat, aku hanya bisa pasrah dan berdoa Fkepada Tuhan agar nilai ujian ku kali ini mendapat hasil yang terbaik.
 	Setelah beberapa menit akupun sampai ke sekolah. Dan di sana ku lihat sudah banyak teman-temanku yang sudah berpakaian rapi mengenakan pakaian adat untuk menjalani proses wisuda. Sesampainya di depan pintu gerbang sekolah aku dan orangtuaku langsung turun dari kendaraan dan masuk ke sekolah.
 	"Turun nak, ibu mau memarkirkan kendaraan dulu." kata ibuku.
 	Waktu itu setelah aku turun dari kendaraan, aku langsung bergabung dengan beberapa teman akrabku. Dan kamipun berbincang-bincang tentang bagaimana kami akan melanjutkan pendidikan di perguruan tinggi mana. Disisi lain orangtuaku pun langsung menemui wali murid yang lain, dan mereka juga berbincang bincang tentang putra-putri mereka yang akan melanjutkan ke perguruan tinggi mana.
@@ -93,9 +95,11 @@
 	Karena aku kangen maka kali ini aku berniat menelepon ibu dan ayah dan menanyakan kabarnya, dan kabar adik-adik ku pastinya.
 	"Halo bu? Gimana kabarnya?"
 	"Halo nak, ibu baik baik saja"
-	"Kalau #######nama adik-adiknya bagaimana bu?"
-	"Alhamdulilah, mereka baik-baik saja, barusan ####nama adik paling kecil sudah masuk SD tahun ini."
-	"Wah sudah pada besar ya."
+	"Kalau Arief, Rahma, Rega bagaimana bu?"
+	"Alhamdulilah, mereka baik-baik saja, barusan Rega sudah masuk SD tahun ini."
+	"Wah selamat kalau gitu. Oh iya, titip salam buat mereka ya."
+	"Oke, Insha Allah ibu sampaikan."
+	"Trimakasih bu."
 	"Aku akan pulang akhir semester ini bu. Dan aku sudah kangen banget dengan ibu dan adik-adik." lanjutku.
 	"Baiklah nak, jangan terburu-buru, selesaikan tugasmu masih yang belum selesai kalau ada." 
 	"Baik bu."
