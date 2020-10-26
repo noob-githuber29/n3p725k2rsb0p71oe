@@ -132,7 +132,18 @@
 	"Aku akan pulang akhir semester ini bu. Dan aku sudah kangen banget dengan ibu dan adik-adik." lanjutku.
 	"Baiklah nak, jangan terburu-buru, selesaikan tugasmu masih yang belum selesai kalau ada." 
 	"Baik bu."
-	$Langsung pulang adja
+	##CUT##
+	Akhirnya setelah empat bulan lamanya, seluruh kegiatanku semester ini berjalan dengan lancar. Kali ini liburan semester selama satu bulan dan akupun pulang ke kampung halamanku. Aku tidak sabar menemui mereka, karena aku sangat merindukan mereka.
+	Sesampainya di terminal akupun turun dari bis lalu melanjutkan jalan kaki ke rumah orangtuaku. Ya karena sebenarnya rumahku nggak jauh banget sih dari terminal itu.
+	Sesampainya di rumah orangtuaku dan adik-adikku langsung menyapaku, aku sangat senang melihat itu.
+	"Halo kakak!" sapa adikku bersama-sama.
+	"Halo juga."
+	Yang pertama aku lakukan adalah memeluk ibukku, dan ayahku.
+	"Gimana rasanya di sana nak?" tanya ibuku sambil memelukku.
+	"Aku kangen rumah bu, jawabku."
+	Kamipun masuk rumah dan aku langsung menuju kamar untuk mengambil pakaian dan mandi.
+	Malam harinya, kami sekeluarga makan malam bersama. Kali ini aku merasa seperti nostalgia, padahal baru empat bulan lamanya aku tidak dirumah ini.
+	Akupun kembali ke luar kota setelah beberapa minggu untuk melanjutkan kuliah. Namun kali ini tidak seperti yang pertama kalinya. Kali ini rasa haru dan sedih tidak terlalu terasa.
 	$begitu terus (tambahi lika-liku seperti drama), sampai lulus kuliah
 	$mendaftar kerja (luar pulau)
 	$gagal dapat kerdja
