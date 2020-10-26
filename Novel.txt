@@ -147,7 +147,15 @@
 	##CUT##
 	Empat bulan setelahnya aku pulang lagi, dan lagi. Seperti itu terus sampai aku lulus kuliah. Dan setelah terbiasa akupun dapat beradaptasi dengan kehidupanku yang seperti ini. 
 	##CUT##
-	Bertahun-tahun aku menjalaninya, dan seluruh adik-adikku sudah tumbuh menjadi dewasa. Dan orangtuaku pun semakin tua. Akupun juga sudah hampir lulus kuliah kali ini. Rencananya sih aku mau kerja setelah lulus kuliah, dan aku pun mencari info dengan menanyakan ke orang-orang terdekatku dan teman-teman ku.
-	
+	Bertahun-tahun aku menjalani kuliahku, dan seluruh adik-adikku sudah tumbuh menjadi dewasa. Dan orangtuaku pun semakin tua. Akupun juga sudah hampir lulus kuliah kali ini. Rencananya sih aku mau kerja setelah lulus kuliah, dan aku pun mencari info dengan menanyakan ke orang-orang terdekatku dan teman-teman ku.
+	"Halo nak, lepas lulus kuliah kamu mau ngapain?" tanya ayah di telepon.
+	"Mmm... kayaknya aku mau kerja aja deh"
+	Ayah terdiam beberapa saat.
+	"Bagus lah kalau begitu, tapi kamu nggak mau cuman kerja kayak Ayah cuman jadi petani kan? Jangan jadi seperti Ayah ya!"
+	"Lah kenapa?"
+	"Soalnya Ayah cuman ingin kamu meningkatkan derajat keluarga nak. Kalau kamu bisa menadapat pekerjaan yang lebih dari seorang petani Ayah akan sagat bangga nak."
+	"Okeh deh kalau begitu, aku berjanji kalau aku akan berusaha semaksimal mungkin untuk meningkatkan derajat keluarga deh."
+	"Nah gitu dong, ayah bangga padamu"
+	Hingga akhirnya aku menemukan suatu pengumuman penerimaan karyawan. Tetapi lowongan tersebut ada di luar pulau, jadi aku harus meninggalkan kampung halaman lebih jauh. Tapi sebelum itu aku akan pulang terlebih dahulu untuk meminta restu dari orangtuaku.
 	$mendaftar kerja (luar pulau)
 	$gagal dapat kerdja
