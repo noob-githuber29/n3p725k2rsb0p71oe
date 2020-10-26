@@ -144,6 +144,10 @@
 	Kamipun masuk rumah dan aku langsung menuju kamar untuk mengambil pakaian dan mandi.
 	Malam harinya, kami sekeluarga makan malam bersama. Kali ini aku merasa seperti nostalgia, padahal baru empat bulan lamanya aku tidak dirumah ini.
 	Akupun kembali ke luar kota setelah beberapa minggu untuk melanjutkan kuliah. Namun kali ini tidak seperti yang pertama kalinya. Kali ini rasa haru dan sedih tidak terlalu terasa.
-	$begitu terus (tambahi lika-liku seperti drama), sampai lulus kuliah
+	##CUT##
+	Empat bulan setelahnya aku pulang lagi, dan lagi. Seperti itu terus sampai aku lulus kuliah. Dan setelah terbiasa akupun dapat beradaptasi dengan kehidupanku yang seperti ini. 
+	##CUT##
+	Bertahun-tahun aku menjalaninya, dan seluruh adik-adikku sudah tumbuh menjadi dewasa. Dan orangtuaku pun semakin tua. Akupun juga sudah hampir lulus kuliah kali ini. Rencananya sih aku mau kerja setelah lulus kuliah, dan aku pun mencari info dengan menanyakan ke orang-orang terdekatku dan teman-teman ku.
+	
 	$mendaftar kerja (luar pulau)
 	$gagal dapat kerdja
