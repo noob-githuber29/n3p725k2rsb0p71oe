@@ -178,10 +178,42 @@
 	"Ini sih kerja di perusahaan gitu ngurusin administrasi, cocok banget ama jurusan kita"
 	"Kalau itu sih kayaknya mau Riz, tapi itu beneran kan?"
 	"Iya lah, beneran orang kakak aku aja dah kerja di situ 6 tahun kok."
-	"Oke deh kalau itu mau aku"
+	"Oke deh kalau itu mau aku."
+	"Tapi pendaftaranya terakhir 7 hari ini, pokoknya kamu harus cepet deh daftar di sini."
 	Fariz pun menyerahkan brosur lowongan kerja tersebut kepadaku.
 	Akhirnya aku menemukan suatu pengumuman penerimaan karyawan. Tetapi lowongan tersebut ada di luar pulau, jadi aku harus meninggalkan kampung halaman lebih jauh. Tetapi tak apa, ini semua demi orangtuaku, dan aku ingin membalas budi kepada mereka yang telah membesarkanku.
-	Tapi sebelum itu aku akan pulang terlebih dahulu untuk meminta restu dari orangtuaku.
+	Tapi sebelum itu aku akan pulang terlebih dahulu untuk meminta restu dari orangtuaku. 
 	##CUT##
+	Sore itu aku sampai kampung halaman, akupun melihat ada beberapa perubahan kecil selama satu tahun ini. Mulai dari rumah-rumahnya dan jalan yang sudah diperbaiki.
+	"Halo bu, aku pulang." sambil membuka pintu dapur.
+	Disitu aku melihat ibu sedang memotong wortel.
+	"Lah kamu kok di sini nak?!" Ibu terkaget dan bahagia melihatku yang pulang ke rumah tanpa ku beritahu sebelumnya.
+	"Hehe iya, soalnya surprise nih."
+	"Kamu ini, dari dulu selalu aja bikin kaget." ucap Ibu sembari malu-malu bahagia.
+	"Lah, kan ini baru aja, maksudnya dah lama aku gak bikin kaget Ibu"
+	"Eh, ngomong-ngomong kenapa kamu pulang mendadak?"
+	"Nggak papa, kan udah satu tahun juga ini belum pernah pulang ke rumah."
+	"Istirahat dulu sana nak, di kamar kalau kamu lelah di perjalanan"
+	"Iya bu, makasih"
+	Ibu lalu melanjutkan memasak, dan aku pun beranjak pergi dari dapur dan pergi ke halaman belakang untuk melihat pemandangan di belakang rumah. 
+	Pemandangan di belakang rumah sangat indah, banyak pegunungan-pegunungan kecil di sana. Pohon-pohon menari tertiup angin, burung-burung burung berkicauan. Masih asri, tidak ada yang berubah sejak aku kecil dulu. Disisi lain aku melihat ayah yang sedang pulang dari sawah.
+	"Hai ayah!!!" aku berteriak memanggil Ayah.
+	Aku pun tak tahu, mengapa Ayah hanya diam saja, tapi aku pikir mungkin ayah lelah karena sudah seharian bekerja.
+	Tapi aku tunggu hingga dia masuk rumah.
+	"Halo Ayah." sapaku sambil melambaikan tangan di depan pintu ketika Ayah membuka pintu.
+	"HEH?!!!" Ayah kaget sambil melangkah beberapa langkah ke belakang.
+	"Kamu bikin kaget Ayah aja Dam." kata Ayah dengan nada kesal.
+	"Hehe... ini kan surprise."
+	"Surprise apa?"
+	"Surprise Yah, kejutan."
+	"Tadi Ayah aku panggil pas naik motor kok nggak jawab sih?" lanjutku.
+	"Dimana?"
+	"Tadi di jalan belakang rumah."
+	"Owh, nggak denger Ayah, soalnya capek banget"
+	"Ayah istirahat dulu aja kalau capek."
+	"Baik, Ayah mandi dulu"
+	Ayah pun lalu pergi ke kamar mandi untuk mandi, dan akupun pergi ke kamar untuk mengeluarkan baju-baju ganti ku dan bersiap-siap untuk mandi.
+	##CUT##
+	
 	$mendaftar kerja (luar pulau)
 	$gagal dapat kerdja
