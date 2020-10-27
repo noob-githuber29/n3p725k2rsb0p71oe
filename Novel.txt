@@ -68,7 +68,7 @@
 	"Oke deh"
 	Aku pun menunggu dengan kebingungan sekali karena aku berfirasat kalau kali ini nilainya tidak akan sebagus lulus SMA kemarin.
 	Dan setelah aku menunggu agak lama Niko pun datang dengan terlihat gembira. Tapi aku tidak tahu menahu kenapa dia sangat bergembira sekali.
-	"Nih, hasil ujiannya Dam." dan Niko pun langsung pergi menuju ke orangtuanya..
+	"Nih, hasil ujiannya Dam." dan Niko pun langsung pergi menuju ke orangtuanya.
 	Setelah kertas hasil ujian di berikan padaku, aku pun kaget. Karena aku tidak diterima dan ranking ku paling bawah di antara yang terburuk.
 	Aku melihat beberapa siswa lain termasuk Niko bisa lulus dan mereka sangat berbahagia sekali, dan orang tua mereka terlihat sangat bangga. Aku sangat iri pada mereka. 
 	Aku tidak tahu harus bagaimana aku mengatakkannya pada orangtuaku. Karena kali ini mereka pasti kecewa karena dipagi tadi mereka sudah berharap banyak kepadaku.
@@ -148,6 +148,9 @@
 	Empat bulan setelahnya aku pulang lagi, dan lagi. Seperti itu terus sampai aku lulus kuliah. Dan setelah terbiasa akupun dapat beradaptasi dengan kehidupanku yang seperti ini. 
 	##CUT##
 	Bertahun-tahun aku menjalani kuliahku, dan seluruh adik-adikku sudah tumbuh menjadi dewasa. Dan orangtuaku pun semakin tua. Akupun juga sudah hampir lulus kuliah kali ini. Rencananya sih aku mau kerja setelah lulus kuliah, dan aku pun mencari info dengan menanyakan ke orang-orang terdekatku dan teman-teman ku.
+	Dan hari ini Ayah meneleponku.
+	"Halo nak, gimana kabarnya?"
+	"Alhamdulilah, baik yah."
 	"Halo nak, lepas lulus kuliah kamu mau ngapain?" tanya Ayah di telepon.
 	"Mmm... kayaknya aku mau kerja aja deh"
 	Ayah terdiam beberapa saat.
@@ -155,7 +158,30 @@
 	"Lah kenapa?"
 	"Soalnya Ayah cuman ingin kamu meningkatkan derajat keluarga nak. Kalau kamu bisa menadapat pekerjaan yang lebih dari seorang petani Ayah akan sagat bangga nak."
 	"Okeh deh kalau begitu, aku berjanji kalau aku akan berusaha semaksimal mungkin untuk meningkatkan derajat keluarga deh."
-	"Nah gitu dong, Ayah bangga padamu"
-	Hingga akhirnya aku menemukan suatu pengumuman penerimaan karyawan. Tetapi lowongan tersebut ada di luar pulau, jadi aku harus meninggalkan kampung halaman lebih jauh. Tapi sebelum itu aku akan pulang terlebih dahulu untuk meminta restu dari orangtuaku.
+	"Nah gitu dong, Ayah bangga padamu."
+	"Hehe iya.. Yah, ngomong-ngomong aku minta maaf ya yah, aku jarang pulang nih dah satu tahun." ya, satu tahun karena aku banyak sekali tugas akhir-akhir ini, jadinya aku nggak bisa sering-sering pulang.
+	"Owh gapapa nak, selesaikan tugasmu yang belum selesai dulu aja."
+	"Dah dulu ya pah, wassalamualaikum"
+	"Waalaikumussalam" telponpun tertutup.
+	Selepas itu akupun semakin semangat untuk mencari pekerjaan yang terbaik, karena orangtuaku juga sudah sangat berharap padaku.
+	##CUT##
+	"Halo Fariz, gimana kabarnya, lama gak ketemu semenjak kita tugas akhir." ya, tugas akhir yang memisah kelompok antara kami membuat kami jarang bertemu lagi.
+	"Hehe iya."
+	"Eh ngomong-ngomong kamu habis kuliah mau kemana?"
+	"Aku sih mau kerja, tapi aku lagi nyari-nyari juga sih ini."
+	"Aku lihat ada lowongan nih dari kakaku."
+	"Lowongan apaan?"
+	"Ya lowongan kerja lah, apa lagi?"
+	"Owh..."
+	"Kamu tertarik nggak ngomong-ngomong Dam?"
+	"Ya nggak tahu, kan nggak tahu itu lowongan kerjanya ngapain?"
+	"Ini sih kerja di perusahaan gitu ngurusin administrasi, cocok banget ama jurusan kita"
+	"Kalau itu sih kayaknya mau Riz, tapi itu beneran kan?"
+	"Iya lah, beneran orang kakak aku aja dah kerja di situ 6 tahun kok."
+	"Oke deh kalau itu mau aku"
+	Fariz pun menyerahkan brosur lowongan kerja tersebut kepadaku.
+	Akhirnya aku menemukan suatu pengumuman penerimaan karyawan. Tetapi lowongan tersebut ada di luar pulau, jadi aku harus meninggalkan kampung halaman lebih jauh. Tetapi tak apa, ini semua demi orangtuaku, dan aku ingin membalas budi kepada mereka yang telah membesarkanku.
+	Tapi sebelum itu aku akan pulang terlebih dahulu untuk meminta restu dari orangtuaku.
+	##CUT##
 	$mendaftar kerja (luar pulau)
 	$gagal dapat kerdja
