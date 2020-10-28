@@ -214,7 +214,7 @@
 	"Baik, Ayah mandi dulu"
 	Ayah pun lalu pergi ke kamar mandi untuk mandi, dan akupun pergi ke kamar untuk mengeluarkan baju-baju ganti ku dan bersiap-siap untuk mandi.
 	##CUT##
-	Malam harinya kami sekeluarga makan malam, dan kami sambil berbincang bincang. Tapi sebelum itu, aku bermain-main terlebih dahulu dengan adik-adik ku. Kali ini rasanya seperti mengulang kembali kehidupan yang telah lama.
+	Malam harinya kami sekeluarga makan malam, dan kami sambil berbincang bincang. Tapi sebelum itu, aku bermain game terlebih dahulu dengan Arief. Kali ini rasanya seperti mengulang kembali kehidupan yang telah lama.
 	"Nak, sebenarnya kamu mau ngapain kok tiba-tiba pulang begini?"
 	"Ya gak papa kan Yah?"
 	"Iya nggak papa sih, tapi pasti ada sesuatu."
@@ -227,8 +227,25 @@
 	Setelah itu aku lega, kaerna sudah bilang kepada orangtuaku. Akupun tidur lebih awal kali ini, karena besuk akan mempersiapkan bekal ujianku.
 	##CUT##
 	Di esok harinya, aku dan adik-adik ku bermain-main di depan rumah. Aku perhatikan  Arief, Rahma, dan Rega sudah tidak seperti dulu lagi. Dalam kata lain, mereka sudah bukan anak kecil lagi. Waktu begitu cepat seakan empat tahun tidak terasa lamanya.
-	Akupun tidak bisa berlama-lama bermain disini. Aku harus segera melanjutkan perjalanan ku ke luar kota lagi meninggalkan kampung halamanku demi masa depan ku.
+	Akupun tidak bisa berlama-lama bermain disini. Aku harus segera melanjutkan perjalanan ku ke luar kota lagi meninggalkan kampung halamanku untuk mengikuti ujian seleksi keryawan.
 	Setelah itu, setelah beberapa saat aku masuk ke kamar untuk memberishkan tempat tidur dan mulai meringkasi barang-barangku. Dengan tujuan untuk pergi ke luar kota. Aku dibantu oleh Ibu yang tahu kalau aku akan pergi.
-	
+	"Dah siap semua nak?" tanya Ibu.
+	"Sudah bu."
+	Selepas aku selesai persiapan packing dan beres-beres akupun pergi ke terminal dengan di antar dan ibuku. Tapi tidak dengan adik-adiku mereka hanya tinggal di rumah saja. Dan akupun tak sempat menunggu Ayah yang sedang berada di sawah karena saking buru-burunya aku.
+	"Aku pergi dulu ya bu, doakan aku mendapat hasil yang terbaik dan sukses."
+	"Ya nak, Ibu selalu mendoakanmu."
+	"Pamitin juga sama Ayah bu, aku belum pamitan tadi."
+	"Ya nak, nanti setelah Ayah pulang dari sawah pasti Ibu pamitin."
+	Selepas itu aku beranjak naik ke bis yang aku tumpangi. Dan kali ini aku akan mampir terlebih dahulu ke kosan ku ketika kuliah, selain untuk mengambil barang aku juga ingin mengucapkan perpisahan padanya karena sudah 4 tahun berasamaku.
+	##CUT##	
+	Sesampainya di kosan aku langsung membuka pintu kosanku. Dan aku segera mengambil barang-barangku yang masih tertinggal dengan terburu-buru karena aku tidak ingin terlambat pada seleksi ujian lowongan pekerjaan kali ini. 
+	Dan aku sangat gelisah karenanya, karena selepas aku beres dari kosanku, aku lihat aku hanya punya waktu sebanyak satu jam. Dan aku tidak yakin akan sampai di tujuan pada waktunya. Dan yang paling aku khawatirkan adalah aku akan terlambat ujian dan aku tidak bisa mengerjakannya, dan aku tidak lolos. Dan aku tidak ingin itu terjadi karena aku akan mengecewakan orangtuaku yang kedua kalinya.
+	Namun setelah aku menutup pintu kosanku, Fariz lewat di depan kosanku dan melihatku, lalu Ia memberitahuku tentang sesuatu.
+	"$$$$"
+	Akupun senang campur kecewa. 
+	Aku senang karena aku dapat mengikuti ujian dengan baik di lain hari dan persiapan lebih matang. Tapi, disisi lain, aku kecewa karena aku tadi pagi bahkan tidak dapat berpamitan dengan Ayah karena aku sangat terburu-buru.
+	Selepas itu aku lalu masuk ke kosan lagi lalu belajar tentang materi ujian besok pagi.
+	##CUT##
+	Di keesokan harinya aku pun bangun pagi-pagi jam 4, dan setelah sholat subuh aku langsung mempersiapkan diriku untuk mengikuti ujian pegawai tersebut. 
 	$mendaftar kerja (luar pulau)
 	$gagal dapat kerdja
