@@ -214,6 +214,10 @@
 	"Baik, Ayah mandi dulu"
 	Ayah pun lalu pergi ke kamar mandi untuk mandi, dan akupun pergi ke kamar untuk mengeluarkan baju-baju ganti ku dan bersiap-siap untuk mandi.
 	##CUT##
-	
+	Malam harinya kami sekeluarga makan malam, dan kami sambil berbincang bincang.
+	"Nak, sebenarnya kamu mau ngapain kok tiba-tiba pulang begini?"
+	"Ya gak papa kan Yah?"
+	"Iya nggak papa sih, tapi pasti ada sesuatu."
+	"Sebenarnya aku ke sini sih mau pamit sama Ayah dan Ibu. Soalnya aku besuk lusa mau pergi seleksi masuk kerja."
 	$mendaftar kerja (luar pulau)
 	$gagal dapat kerdja
