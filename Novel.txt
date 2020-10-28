@@ -214,10 +214,21 @@
 	"Baik, Ayah mandi dulu"
 	Ayah pun lalu pergi ke kamar mandi untuk mandi, dan akupun pergi ke kamar untuk mengeluarkan baju-baju ganti ku dan bersiap-siap untuk mandi.
 	##CUT##
-	Malam harinya kami sekeluarga makan malam, dan kami sambil berbincang bincang.
+	Malam harinya kami sekeluarga makan malam, dan kami sambil berbincang bincang. Tapi sebelum itu, aku bermain-main terlebih dahulu dengan adik-adik ku. Kali ini rasanya seperti mengulang kembali kehidupan yang telah lama.
 	"Nak, sebenarnya kamu mau ngapain kok tiba-tiba pulang begini?"
 	"Ya gak papa kan Yah?"
 	"Iya nggak papa sih, tapi pasti ada sesuatu."
 	"Sebenarnya aku ke sini sih mau pamit sama Ayah dan Ibu. Soalnya aku besuk lusa mau pergi seleksi masuk kerja."
+	"Nah, git dong terus teranga aja, nggak papa."
+	"Aku minta doanya ya Ayah Ibu"
+	"Iya nak, Ibu selalu mendoakanmu setiap saat, dimanapun"
+	"Ayah juga demikian nak"
+	"Terimakasih Yah, Bu"
+	Setelah itu aku lega, kaerna sudah bilang kepada orangtuaku. Akupun tidur lebih awal kali ini, karena besuk akan mempersiapkan bekal ujianku.
+	##CUT##
+	Di esok harinya, aku dan adik-adik ku bermain-main di depan rumah. Aku perhatikan  Arief, Rahma, dan Rega sudah tidak seperti dulu lagi. Dalam kata lain, mereka sudah bukan anak kecil lagi. Waktu begitu cepat seakan empat tahun tidak terasa lamanya.
+	Akupun tidak bisa berlama-lama bermain disini. Aku harus segera melanjutkan perjalanan ku ke luar kota lagi meninggalkan kampung halamanku demi masa depan ku.
+	Setelah itu, setelah beberapa saat aku masuk ke kamar untuk memberishkan tempat tidur dan mulai meringkasi barang-barangku. Dengan tujuan untuk pergi ke luar kota. Aku dibantu oleh Ibu yang tahu kalau aku akan pergi.
+	
 	$mendaftar kerja (luar pulau)
 	$gagal dapat kerdja
