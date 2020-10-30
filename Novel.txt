@@ -325,27 +325,95 @@
 	Di pagi harinya, aku pun berangkat ke luar pulau untuk mengikuti ujian tingkat I atau ujian secara nasional untuk penerimaan pegawai. Aku berangkat agak pagi, karena untuk mengikuti jadwal kapal yang aku tumpangi. 
 	Perjalanan kali ini terasa cukup lama, yaitu memakan waktu sampai 36 Jam lebih pada jadwal tiket kapal. Sebenarnya teman-temanku yang lain beberapa ada yang naik pesawat, tetapi karena aku tidak punya uang, maka aku hanya naik kapal saja.
 	Tapi perjalanan tersebut tidaklah terasa terlalu lama, karena aku hanya tertidur selama di kapal. Hingga tiba-tiba kapal tersebut membunyikan klaksonnya, dan akupun telah sampai di pulau yang aku tuju.
-	Dan setelah aku turun dari kapal yang aku tumpangi, aku naik taksi menuju ke penginapan bersama teman-temanku yang ikut keluar pulau untuk ujian pegawai. Penginapanya semua sama, karena sudah disediakan oleh pihak perusahaan. Dan aku langsung tidur di penginapan tersebut setelah aku menginjakkan kaki di sana.$Add dialouge 'hey kamu dam ayo join sini', 'eh nggak aku langsung tidur aja' Padahal teman ku yang lain masih belajar terlebih dahulu.
+	Dan setelah aku turun dari kapal yang aku tumpangi, aku naik taksi menuju ke penginapan bersama teman-temanku yang ikut keluar pulau untuk ujian pegawai. Penginapanya semua sama, karena sudah disediakan oleh pihak perusahaan. 
+	"Eh kamu Adam kan? Ayo sini belajar bareng, biar kita nggak kalah saing besuk sama daerah sebelah, soalnya tahun lalu saingannya ketat loh."
+	"Hehe nggak usah aku capek, aku tidur aja."
+	Akupun langsung tidur, padahal teman ku yang lain masih belajar terlebih dahulu.
 ##CUT##
-	Pagi hari ketika jadwal masuk ujian, akupun langsung pergi ke sebuah tempat dimana seluruh peserta ujian pegawai dari semua daerah yang sudah terseleksi ada di situ. Dan disinilah mentalku ciut, akupun langsung pesimis seketika.
-	Dan benar saja ketika aku mengerjakan ujian tersebut, aku tidak bisa sama sekali. Mungkin ini juga dikarenakan tadi malam dan malam berikutnya aku tidak belajar sama sekali. termasuk di$Kapal kosan penginapan bersama) aku tidak belajar. 
+	Pagi hari ketika jadwal masuk ujian dimulai, akupun langsung pergi ke sebuah tempat dimana seluruh peserta ujian pegawai dari semua daerah yang sudah terseleksi ada di situ. Dan disinilah mentalku ciut, akupun langsung pesimis seketika.
+	Dan benar saja ketika aku mengerjakan ujian tersebut, aku tidak bisa sama sekali. Mungkin ini juga dikarenakan tadi malam dan malam berikutnya aku tidak belajar sama sekali. Termasuk ketika aku di kosanku, di kapal, dan di penginapan aku tidak belajar sama sekali. 
 	Hal yang sama juga terjadi pada ketika aku di ujian wawancaranya. Ditambah juga karena ini ujian yang dilaksanakan untuk seluruh peserta dari seluruh daerah, maka kali ini ada ujian praktek. Dan ketika ujian praktek aku nol besar, tidak bisa apa-apa karena aku belum pernah mempelajarinya apa lagi melakukannya termasuk ketika dulu ketika aku kuliah.
-	$add transition
-##CUT##
-	Akupun pulang ke kampung halamanku dengan rasa penunh kekecewaan.
-	$add drama trip here
+	Dan tentu saja aku gagal dan tidak bisa diterima sebagai pegawai di perusahaan tersebut. Padahal ini sudah langkah akhir yang akan dilakukan untuk setiap calon pegawai, termasuk aku, tapi aku malah termasuk yang gagal.
+	Akupun pulang ke kampung halamanku dengan rasa penunh kekecewaan. Dan aku sudah mengecewakan orangtuaku untuk kedua kalinya. Aku sangat menyesal kali ini.	
 ##CUT##
 	Sesampainya dirumah ku aku lalu ditanya ibuku.
-	$dialouge ditanya
-	$bapak mengijinkan karena ibu (with drama)
-	%Setelah itu aku memutuskan untuk bekerja di kampung halamanku saja sebagai apapun lah, yang penting dapat pekerjaan, toh bapak juga mengijinkan juga aku jadi apa-apa.
+	"Nak, gimana ujiannya, dah lulus belum?" ibu menanya.
+	"Nggak sih bu." aku menjawab dengan perasaan malu dan menutup mukaku.
+	"Nggak papa nak, besuk kamu kerja di sini aja nggak papa. Nggak harus yang bagus-bagus kok." kata Ibuku.
+	"Tapi bu, kemarin aku sudah janji sama Ayah."
+	"Janji apa?"
+	"Kalau aku mau kerja di tempat yang bagus."
+	Tiba-tiba Ayah datang dan bilang sesuatu padaku.
+	"Iya nak, nggak papa, Ayah nggak maksa kok, cuman kalau kamu bisa yang lebih bagus ke yang lebih bagus, tetapi kalau tidak, juga tidak apa-apa." kata Ayah.
+	"Oh iya, aku dengar kemarin Pak Anwar juga butuh kekurangan anak buah, kamu bisa bekerja di sana mungkin nak." lanjut Ayah.
+	"Hehe iya, makasih Ayah."
+	Setelah itu aku memutuskan untuk bekerja di kampung halamanku saja di tempat Pak Anwar, ya memang tidak seperti yang diinginkan, cuman sebagai Office Boy saja. Yaitu orang yang disuruh-suruh kesana kemari seperti pembantu rumah tangga. Tetapi ini di sebuah perusahaan atau kantor.
+	Tidak apa tidak mendapatkan pekerjaan yang sebagus aku inginkan dan tidak sesua dengan bidang yang aku sukai, tapi yang penting dapat pekerjaan, toh hasilnya juga halal.
+	Selain itu bapak juga mengijinkan dan meresetui juga aku tidak bekerja di yang seperti aku inginkan kemarin.
 ##CUT##
-	%Setelah bekerja menjadi office boy selama bertahun-tahun di Pak Anwar, akhirnya aku menemukan titik lemahku, yaitu aku selalu terlena dengan keadaan seakaan aku paling hebat.
-	%Dan setelah itu aku resign dari anak buah Pak Anwar, aku lalu membangun usahaku sendiri.
+	Setelah minggu pertama aku bekerja di sana, aku melihat Niko juga bekerja di sana
+	Aku sontak terkejut dengan melihat Niko yang bekerja di sana, lalu aku menanyai Niko kenapa ia bekerja di sini.
+	"Eh, Niko."
+	"Eh, Adam." jawab Niko dengan sedikit terkejut.
+	"Kamu kerja disini juga dam?"
+	"Iya nih."
+	"Kok kamu kerja di sini. Bukannya kemarin kamu dah lolos ke tingkat I ya?"
+	"Tingkat satu ujian pegawai minggu lalu?"
+	"Iya Dam."
+	"Kok kamu bisa tahu? Darimana coba?"
+	"Sebenarnya aku bisa tahu soalnya kemarin aku juga mendaftar di perusahaan tersebut."
+	"Lah tapi aku kok nggak lihat kamu pas disana?"
+	"Aku nggak ikut ama teman-teman kamu, aku ikut sama teman-teman yang satu kuliah dengan aku, kita kan beda sekolah semenjak aku keterima di perguruan tinggi negeri. Tapi aku lihat kamu dan mau menyapa kamu, tapi waktu ujian dah mulai."
+	"Tapi aku kok nggak lihat kamu di seleksi tingkat I sih? Kan harusnya aku lihat, seharusnya kamu satu penginapan sama kamu Nik."
+	"Aku sebenarnya nggak lulus pas di tingkat II Dam. Aku gagal di sana, soalnya aku sudah merasa bisa karena aku dari perguruan tinggi negeri dan yang lain seperti kamu dari swasta jadi aku malah kerja di sini jadi pembantu sama kayak kamu."
+	"Sama dong kalau gitu, aku juga nggak lulus di tingkat I juga karena aku terlalu merasa sudah bisa. Dan aku lengah kerena Tingkat II aku berhasil dan aku merasa paling bisa."
+	"Kayaknya kamu sama kayak aku dam, dan  kita seharunya tidak boleh lengah ketika kita sudah diatas, kita harus tetap tidak boleh sombong dengan keadaan."
+	"Iya Nik."
+	Perkataan Niko masuk akal juga, aku terlalu lengah ketika aku mendapat keberhasilan. Dan ini sudah yang kedua kalinya.
+	Yang pertama adalah ketika aku akan masuk ke perguruan tinggi negeri, dan yang kedua adalah ketika aku masuk ke seleksi pegawai.
 ##CUT##
-	%Pertama usahaku ini tidak terasa baik, dan benar saja usahaku ini malah mengarah ke bangkrut, aku membebani orangtuaku, dan aku hanya meminjam uang kepada orangtuaku yang sudah semakin tua dan semakin sedikit uangnya karena terpakai untuk kebutuhan kuliahku dulu dan sekolah adik-adiku yang sudah mulai SMA sehingga biayanya bertambah. Tapi aku masih akan menjalaninya dengan gigih, dan tidak patah semangat.
+	Bulan demi bulan aku jalani untuk bekerja di tempat Pak Anwar. Dan seperti ekspektasi ku ketika akan bekerja di tempat Pak Anwar, aku tidak betah bekerja di sini. Karena selain gaji yang aku di sini tidak seperti yang aku harapkan, pekerjaan ini juga tidak sesuai dengan kemampuan ku. Dan aku merasa kuliahku sia-sia karena ilmuku tidak terpakai di sini.
+	Setelah itu lalu aku memutuskan untuk keluar dari pekerjaan itu. Dan aku memberitahu orangtuaku kalau aku ingin keluar.
+	Sesampainya pulang dari kerja akupun masuk ke rumah. Dan tiba disaat makan malam.
+	"Bu kayaknya aku berhenti deh kerja di tempat Pak Anwar"
+	"Apa?! Kamu ingin keluar nak. Kan kamu dah dapat pekerjaan yang netap nak. Kenapa kamu ingin keluar?"
+	"Soalnya aku ingin sesuatu yang lebih dari itu bu, dan aku ingin mencoba pengalaman yang lebih. Aku ingin membuat usahaku sendiri bu."
+	"Kamu yakin nak? Usaha itu butuh kegigihan dan tidak mudah loh."
+	"Iya bu aku tahu, aku sudah memikirkannya kok."
+	"Coba kamu tanya ke Ayahmu dulu deh."
+	"Kalau itu sudah niatmu tidak apa-apa nak, yang penting gigih dan jangan menyerah, jadi apapun dirimu kalau niatmu baik semua pasti ada jalannya." sahut Ayah.
+	"Baik yah, mulai besuk aku mau bilang ke Pak Anwar kalau aku mau berhenti bekerja di tempatnya."
 ##CUT##
-	%Benar saja usahaku mulai berkembang dan kini aku merasa sangat sukses. Tapi aku ingat dulu, aku tidak boleh terlena akan keadaan. 
-	$Dapat pujain dari temen (niko, fariz), adik-adik, orangtua. tapi tetep low profile/not arrogant.
+	Akhirnya aku bisa berhenti dari bekerja di tempat Pak Anwar dan aku mulai membuka usahaku membuat toko kecil kecilan, aku mulai mendapat modal dari sisa gajiku dan uang orangtuaku. Aku merintis usahaku dari kecil-kecilan.
+	Pada bulan pertama usahaku ini tidak dapat berjalan dengan baik, aku kurang daya saing dengan toko yang lain. Dan tidak dapat membuat keuntungan di setiap bulan selanjutnya. Aku sangat yakin usahaku ini akan gagal dan bangkrut.
+	Dan benar saja setelah empat bulan lamanya usahaku ini mengarah ke bangkrut dan rugi seitap bulannya. Dan kali ini yang rugi bukan hanya aku saja, tetapi orangtuaku juga karena ibarat investasi kepada usahaku yang akhirnya bangkrut, tentu saja mereka juga terhitung rugi.
+	Orangtuaku juga dibuat semakin menderita karena aku tidak dapat membantu orangtuaku, dan mungkin hanya masih menjadi beban mereka. Dan selain itu mereka harus membiayai biaya sekolah anak-anak mereka yang sudah masuk SMP dan SMA, dan tentu saja biayanya akan semakin banyak.
+	Tapi aku akan tetap gigih dan tidak patah semangat, dan yakin, bahwa semuanya mungkin, karena Ayah sudah percaya kepadaku. Selain itu aku mencoba taktik pemasaran yang lain demi mempertahankan tokoku ini.
 ##CUT##
-	%Kemudian strategiku ini berhasil, dengan tetap tidak terlena akhirnya aku bisa lebih sukses, dan bahkan aku bisa memberangkatkan haji plus untuk orangtuaku karena mereka sudah tua dan butuh cepat $add dialouge giving hajj plus ticket here. Akupun dapat mengurangi beban orangtuaku dengan membiayai seluruh kebutuhan adik-adikku.
+	Setelah dua tahun lamanya, Alhamdullilah, berkat usaha dan kegigihanku selama ini, usahaku ini dapat berjalan dengan lancar, dan penjualanku semakin meroket. Aku bahkan sudah membuatkan perusahaan untuk usahaku ini. 
+	Dan tahun ini aku akan membuka cabang baruku di kota, dan cabangku ini adalah cabang dari tokoku, dan tokonya sangat besar, akupun mengundang keluargaku dan teman-temanku dalam launching toko baruku ini.
+	"Selamat ya, semoga usahanya makin sukses" dari Niko.
+	"Selamat ya kak, semoga segera dapat jodoh." dari Arief.
+	Itulah beberapa ucapan selamat dari teman-temanku untuk aku.
+	"Selamat ya nak, akhirnya kamu dapat sukses seperti ini." kata Ibuku.
+	Akupun menjawab "Iya bu, terimakasih juga doanya yang telah kau berikan selama ini."
+	"Selamat ya nak, semoga suskses selalu." kata Ayahku.
+	Akupun menjawab, "Iya Yah, terimakasih juga untuk modal yang telah berikan selama ini. Tanpa itu aku tidak akan bisa seperti ini."
+	Setelah hari bahagia itu, kali ini aku tidak akan lengah lagi seperti dulu, aku akan tetap gigih mempertahankan usahaku ini supaya tidak runtuh.
+##CUT##
+	Setelah lima tahun lamanya, perusahaanku ini menjadi perusahaan yang paling besar di kotaku. 
+	Akupun sudah tidak tinggal di kampung halamanku atau di rumah orangtuaku, karena aku sudah punya rumah sendiri di kota. Karena aku ingin hidup mandiri, selain itu ini lebih mudah bagiku untuk bekerja karena rumah dan tempat usahaku lokasinya tidak begitu jauh.
+	Tentu saja keberhasilanku ini tidap dapat diwujudkan tanpa bantuan orangtuaku. Oleh karena itu, aku harus balasbudi kepada orangtuaku karena mereka yang membuat aku bisa menjadi seperti ini. Akupun pulang ke kampung halaman pagi ini dengan membawa oleh-oleh yang banyak.
+	"Assalamualaikum bu, aku datang."
+	"Eh kamu Dam."
+	"Yang lain kemana bu?"
+	"Ayah lagi di sawah, dan yang lain sekolah."
+	Setelah itu aku mengeluarkan banyak kardus dari mobilku. Dan kardus tersebut berisi oleh-oleh.
+	"Wah bawa apa ini Dam, kok banyak bangat."
+	"Hehe oleh-oleh bu. Itu sudah ada namanya masing-masing, yang ini buat Arief, yang ini buat Rega, dan yang ini buat Rahma."
+	Ibupun lalu membuka isi dari kardus oleh-oleh ku tersebut. Dan sedudah Ibu selesai membuka seluruh karuds tersebut aku lalu memberikan sesuatu kepada Ibu.
+	"Ini bu, ada sesuatu satu lagi."
+	"Apa ini nak?"
+	"Buka aja lah bu."
+	Ibupun membuka sesuatu yang aku berikan itu, lalu setelah dibuka adalah tiket naik haji. 
+	Ibupun menangis dan memelukku. Dia tidak bisa berkata apa apa, dan aku hanya bisa memeluknya kembali.
